@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning C# with .NET.
+I’m currently learning .NET and as much as possible <br>
+connected to and relevant to it, for example:
+- C#
+- Entity Framework Core
+- ASP.NET
+- Blazor
+
+And I'm having a blast doing it! <br>
+Thanks for stopping by! 🌱
