@@ -7,6 +7,7 @@ connected and relevant to it, for example:
 - C#
 - Entity Framework Core
 - ASP.NET
+- REST APIs
 - Blazor
 
 And I'm having a blast doing it! <br>
