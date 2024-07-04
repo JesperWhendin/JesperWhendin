@@ -15,4 +15,4 @@ Thanks for stopping by! 🌱
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JesperWhendin&theme=react&exclude_days=Sun%2CSat&card_width=525&fire=EB5454&background=45%2C2A61B0A1%2C000000B6)
+![GitHub Streak](https://streak-stats.demolab.com?user=JesperWhendin&theme=github-dark&date_format=j%20M%5B%20Y%5D&card_width=525&card_height=200&ring=EB541B&fire=EBD11F&border=12ACDC&dates=12ACDC&stroke=12ACDC&background=45%2C313C9973%2CEB545400)
